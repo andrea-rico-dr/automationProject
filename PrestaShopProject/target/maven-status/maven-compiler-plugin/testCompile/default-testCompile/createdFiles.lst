@@ -1,0 +1,7 @@
+stepDefinition\RegistrationPage.class
+utility\BrowserDriver.class
+pages\HomePage.class
+pages\SignInPage.class
+pages\RegistrationPage.class
+stepDefinition\HomePage.class
+runner\TestRunner.class
