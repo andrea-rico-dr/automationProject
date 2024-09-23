@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","39567","Add products to shopping cart","","Mon Sep 23 16:06:24 BOT 2024","passed","Mon Sep 23 16:07:04 BOT 2024","","Add Products","Add products to shopping cart",""
+"","17697","New users can register successfully","","Mon Sep 23 16:09:36 BOT 2024","passed","Mon Sep 23 16:09:54 BOT 2024","","User Registration","New users can register successfully",""
+"","136564","Complete Checkout process","","Mon Sep 23 16:07:20 BOT 2024","broken","Mon Sep 23 16:09:36 BOT 2024","","Checkout","Complete Checkout process",""
+"","15595","User can browse Catalog","","Mon Sep 23 16:07:04 BOT 2024","passed","Mon Sep 23 16:07:20 BOT 2024","","Catalog Browsing","User can browse Catalog",""
